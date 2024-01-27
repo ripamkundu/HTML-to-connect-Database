@@ -4,11 +4,6 @@
 This project has one HTML form to submit contact inputs in MySQL database using PHP. 
 This HTML form are built using Bootstrap, Jquery.
 
-
-## Author
-* Raghwendra Ojha
-* Website Development Company 
-* https://www.raghwendra.com/
 ## Technologies
 * HTML
 * CSS
